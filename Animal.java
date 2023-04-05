@@ -27,8 +27,6 @@ public class Animal{
     public static void showinfo(){
         System.out.println("歡迎進入冰雪奇緣系統");
     }
-
-    public void animal(){}
 }
 
 
